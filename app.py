@@ -4,7 +4,7 @@ from flask import Flask, request,render_template
 from flask_cors import CORS
 import os
 import joblib
-# from sklearn.externals import joblib
+import joblib
 import pickle
 import flask
 import os
